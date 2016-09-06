@@ -45,3 +45,4 @@ Rewrite the method in the [my_solution.rb](my_solution.rb) file. Be sure to do t
 
   - Clean up the variable names.
   - The original code used a hard-coded hash to do the encryption. Can you create a simple algorithm instead? The original shift was by 4 characters. What would happen if it was changed to 10? Would your class be able to handle that change easily?
+Enjoy
